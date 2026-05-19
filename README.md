@@ -25,6 +25,7 @@ A curated list of awesome OpenAI Codex resources, tools, projects, and other rel
 
 ## Tools & Integrations
 
+- **agenttrace** – [GitHub: luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) – Local TUI for inspecting Codex CLI and other AI coding agent sessions, including cost, token usage, elapsed time, and slow-run diagnostics.
 - **Auto-Docstring** – *Open-source Codex tool (2021)* – Automatically generates Python docstrings for your functions using Codex. (Demonstrated as a Codex-powered script that inserts PEP 257-compliant docstrings based on code.)
 - **Codex-README Generator** – [GitHub: tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) – CLI tool that uses OpenAI Codex to generate and update README documentation for your projects, automating the creation of project docs.
 - **OpenAI Codex CLI** – [GitHub: openai/codex](https://github.com/openai/codex) – Official CLI for Codex that allows natural-language coding workflows in your terminal. You can run commands like `codex` to spin up the Codex agent locally, execute code, run tests, and iterate on tasks via prompts.
